@@ -2,7 +2,7 @@
 
 An interactive algorithm visualization platform for graph traversal and shortest-path algorithms. Built with React and rendered on an HTML5 canvas-style grid, it lets you watch algorithms think — wall by wall, node by node.
 
-**[Live Demo →](https://vercel.com/pabhinav2006-5214s-projects/pathfinding-algorithm-visualizer/FxrRLJ4GjDPfGqPrTthTz6XhJ42k)**
+**[Live Demo →](https://pathfinding-algorithm-visualizer-kvb30m21p.vercel.app/)**
 
 ---
 
