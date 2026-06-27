@@ -1,7 +1,7 @@
 import { useState, useRef, useMemo, useCallback, memo } from "react";
 
 // ─── Grid config ─────────────────────────────────────────────────────────────
-const R = 20, C = 52;
+const R = 22, C = 52;
 const SR = 10, SC = 5, FR = 10, FC = 46;
 const K = (r, c) => `${r},${c}`;
 const H = (r1, c1, r2, c2) => Math.abs(r1 - r2) + Math.abs(c1 - c2);
